@@ -1,3 +1,1 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<div class="tenor-gif-embed" data-postid="21870459" data-share-method="host" data-aspect-ratio="1.74863" data-width="100%"><a href="https://tenor.com/view/yo-wasp-sil-dogelore-jojo-jjba-gif-21870459">Yo Wasp Sil GIF</a>from <a href="https://tenor.com/search/yo+wasp-gifs">Yo Wasp GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
